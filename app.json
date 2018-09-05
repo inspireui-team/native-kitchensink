@@ -1,17 +1,23 @@
 {
-	"expo": {
-		"name": "native-kitchensink",
-		"description": "Playground for ReactiveSearch Native components",
-		"slug": "native-kitchensink",
-		"privacy": "public",
-		"sdkVersion": "26.0.0",
-		"platforms": ["ios", "android"],
-		"version": "1.0.0",
-		"orientation": "portrait",
-		"icon": "./assets/icon.png",
-		"updates": {
-			"fallbackToCacheTimeout": 0
-		},
-		"assetBundlePatterns": ["**/*"]
-	}
+  "expo": {
+    "name": "freebies/native-kitchensink",
+    "description": "Playground for ReactiveSearch Native components",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "slug": "freebiesnative-kitchensink",
+    "githubUrl": "https://github.com/appbaseio-apps/native-kitchensink"
+  }
 }
